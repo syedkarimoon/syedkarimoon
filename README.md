@@ -39,7 +39,7 @@ Used KPIs to monitor monthly growth
 
 🔗 GitHub Link: https://github.com/syedkarimoon/Sales_data_analysis
 
-🔹** 3. HR Analytics Dashboard**
+  **3. HR Analytics Dashboard**
 
 Tools Used: Excel, MySQL, Power BI
 
@@ -49,7 +49,7 @@ Built dashboards to support HR decision-making
 
 🔗 GitHub Link: https://github.com/syedkarimoon/HR-Analytics-Project
 
-📈 Key Highlights
+**📈 Key Highlights**
 ✔️ Strong understanding of data cleaning & transformation
 ✔️ Experience in dashboard design and storytelling
 ✔️ Ability to convert business problems into data solutions
@@ -58,13 +58,11 @@ Built dashboards to support HR decision-making
 
 📧 Email: syedkarimoon@gmail.com
 
-🔗 LinkedIn: (Add your LinkedIn profile link here)
-🔗 GitHub: (Add your GitHub profile link here)
-
-⭐ What I'm Currently Working On
+⭐ **What I'm Currently Working On**
 Improving Power BI advanced DAX skills
 Building more real-time data projects
 Preparing for Data Analyst job opportunities
-💡 Quote
+
+**💡 Quote**
 
 "Turning data into insights, and insights into decisions."
